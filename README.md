@@ -39,3 +39,5 @@ Instalar las dependencias (no olvidar instalarlas en el frontend tambien):
 Luego ejecutar:
 
 `> npm run start` 
+
+Por defecto el servidor se accesa por el localhost en el puerto 5000.
