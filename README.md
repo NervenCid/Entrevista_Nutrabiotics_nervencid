@@ -12,7 +12,7 @@ Primero copiar el repositorio:
 
 Para construir la imagen:
 
-`> > docker build -t <image_name> .` 
+`> docker build -t <image_name> .` 
 
 Y ejecutar el imagen en el puerto 5000:
 
