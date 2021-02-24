@@ -8,16 +8,6 @@ Primero copiar el repositorio:
 
 `> git clone https://github.com/NervenCid/Entrevista_Nutrabiotics_nervencid.git` 
 
-### Con svelte
-
-Para ejecutar en el modo dev primero instalar las dependencias:
-
-`> cd frontend && npm install` 
-
-Luego ejecutar:
-
-`> npm run dev` 
-
 ### Con Docker
 
 Para construir la imagen:
@@ -29,6 +19,16 @@ Y ejecutar el imagen en el puerto 5000:
 `> docker run -it --publish 5000:5000 <image_name>` 
 
 Donde `<image_name>` puede ser cualquier nombre.
+
+### Con svelte
+
+Para ejecutar en el modo dev primero instalar las dependencias:
+
+`> cd frontend && npm install` 
+
+Luego ejecutar:
+
+`> npm run dev` 
 
 ### Con el backend de node.js
 
