@@ -28,6 +28,8 @@ Y ejecutar el imagen en el puerto 5000:
 
 `> docker run -it --publish 5000:5000 <image_name>` 
 
+Donde `<image_name>` puede ser cualquier nombre.
+
 ### Con el backend de node.js
 
 Instalar las dependencias (no olvidar instalarlas en el frontend tambien):
